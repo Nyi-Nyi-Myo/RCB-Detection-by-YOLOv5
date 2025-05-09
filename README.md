@@ -21,8 +21,11 @@ Classes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - R for Red Marker, C f
 ## Results
 
 P = 0.958
+
 R = 0.957
+
 F1 = 0.9575
+
 mAP = 0.99
 
 RCB_detection_yolov5_blind_testing.ipynb for blind testing with the best weights
